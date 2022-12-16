@@ -21,7 +21,6 @@ lerna-debug.log*
 # IDEs and editors
 /.idea
 .project
-.history
 .classpath
 .c9/
 *.launch
@@ -34,3 +33,4 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+.history
